@@ -18,13 +18,3 @@ The project is open source (Creative commons 4.0 Attribution - Share Alike) and 
 Click on image for interactive viewer in browser.
 
 [![GrabCAD](https://github.com/bdring/midTbot_esp32/blob/master/Docs/images/grabcad_model.png)](https://workbench.grabcad.com/workbench/projects/gcj3zJAQexD3ve_8KkwymatyKXhCWnRs8TB5U1ojGxl3s4#/space/gcP-lh4vchvUQ6FbfQFYGKVWLmIdnV8aq2IyxzoECw8woR/link/1918044)
-
-### Kits
-
-There currently are no full kits for sale. [Controller kits are available on Tindie](https://www.tindie.com/products/33366583/midtbot-esp32-v1-controller-kit/).
-
-### Donation
-
-This project represents a lot of work. Please consider a safe, secure and highly appreciated donation via the PayPal link below.
-
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TKNJ9Z775VXB2)
